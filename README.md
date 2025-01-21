@@ -1,21 +1,18 @@
-# <!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>Bold Text Example</title>
-    <html>
-<head>
-<style>
-  h1 {color:red;}
-  p {color:blue;}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transparent Background</title>
+    <style>
+        body {
+            background-color: transparent;
+            color: white; /* Change this to your preferred text color */
+        }
+    </style>
 </head>
 <body>
-
-</head>
-<body>
-    <p><h1>BREAKING NEWS!!!</h1></p>
-    <!-- Alternatively -->
-    <p><strong>This is also BREAKING NEWS!!!</strong></p>
-    
+    <h1>IDENT TEXT!!</h1>
+    <p>This is a paragraph with a transparent background.</p>
 </body>
 </html>
